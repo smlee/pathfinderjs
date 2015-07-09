@@ -1,0 +1,44 @@
+{
+  "name": "pathfinderjs",
+  "version": "0.0.1",
+  "private": false,
+  "preferGlobal": false,
+  "author": "Cat, Sang, Ming, Tyler",
+  "contributors": [
+    {
+      "name": "Cat Lau",
+      "email": "foo@foo.com"
+    },
+    {
+      "name": "Sangmin Lee",
+      "email": "sangmlee23@gmail.com"
+    },
+    {
+      "name": "Ming Lei",
+      "email": "mingus718@gmail.com"
+    },
+    {
+      "name": "Tyler (Liu) Perwarski",
+      "email": "Tjp2122@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "angular-ui-router": "^0.2.15",
+    "express": "^4.13.0",
+    "lodash": "^3.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smlee/pathfinderjs"
+  },
+  "bugs": {
+    "url": "https://github.com/smlee/pathfinderjs/issues"
+  },
+  "keywords": [
+    "router",
+    "path",
+    "postman"
+  ],
+  "analyze": true,
+  "license": "MIT"
+}
